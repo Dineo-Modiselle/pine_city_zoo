@@ -47,5 +47,19 @@ body {
 
 }
 
+.tabs-top a{
+    float   : left;
+    display : block;
+    width   : 33%;
+    height  :35px;
+    font-weight : 700;
+    color       : white;
+    text-align  : center;
+    text-decoration : none;
+    padding-top     : 12px;  
+}
 
+#main-home{
+    margin-top: 120px;
+}
 
